@@ -1,0 +1,30 @@
+{
+    "frontend": [
+        {
+            "task": "Create login/signup pages & forms",
+            "status": "pending"
+        },
+        {
+            "task": "Build dashboard, task list UI, create/edit/delete task UI",
+            "status": "pending"
+        },
+        {
+            "task": "Add sharing UI & invite flows",
+            "status": "pending"
+        }
+    ],
+    "backend": [
+        {
+            "task": "Implement auth endpoints (signup/login) and JWT/session handling",
+            "status": "pending"
+        },
+        {
+            "task": "Implement task CRUD endpoints with validation",
+            "status": "pending"
+        },
+        {
+            "task": "Implement sharing endpoints & permission checks",
+            "status": "pending"
+        }
+    ]
+}
