@@ -49,7 +49,17 @@ It can be easily integrated into workflow automation tools or productivity syste
 - AI-powered assistants  
 - Productivity tools  
 
----
+---+-------------+
+| User Input  |
++-------------+
+       ↓
++-------------------+
+| AI Task Analyzer  |
++-------------------+
+       ↓
++-------------+
+| Result      |
++-------------+
 
 ## 📈 Impact
 - Reduced manual task analysis  
@@ -63,3 +73,5 @@ It can be easily integrated into workflow automation tools or productivity syste
 Software Engineer | Frontend Developer  
 GitHub: https://github.com/ishasaleem  
 LinkedIn: https://linkedin.com/in/isha-saleem-162200250
+
+
